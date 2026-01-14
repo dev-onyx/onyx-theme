@@ -1,0 +1,49 @@
+{
+  "name": "onyx-theme",
+  "displayName": "Onyx Theme Color & Experience",
+  "description": "A super-dark, minimal VS Code theme with subtle borders and zero visual noise. Designed for focus and clarity.",
+  "version": "1.2.0",
+  "publisher": "dev-onyx",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.100.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "black",
+    "minimal",
+    "onyx",
+    "cursor",
+    "clean",
+    "modern",
+    "low contrast",
+    "aesthetic",
+    "icons",
+    "complete"
+  ],
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#060606",
+    "theme": "dark"
+  },
+  "extensionPack": [
+    "tal7aouy.icons",
+    "melishev.feather-vscode"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Onyx Theme Color & Experience",
+        "uiTheme": "vs-dark",
+        "path": "./themes/theme.json"
+      }
+    ]
+  },
+  "scripts": {
+    "package": "vsce package"
+  }
+}
