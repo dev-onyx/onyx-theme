@@ -5,6 +5,14 @@
   "version": "1.2.0",
   "publisher": "dev-onyx",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dev-onyx/onyx-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/dev-onyx/onyx-theme/issues"
+  },
+  "homepage": "https://github.com/dev-onyx/onyx-theme#readme",
   "engines": {
     "vscode": "^1.100.0"
   },
