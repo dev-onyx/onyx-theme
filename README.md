@@ -50,8 +50,8 @@ For the optimal experience, add these to your IDE `settings.json`:
   // EDITOR - TYPOGRAPHY
   // ═══════════════════════════════════════════════════════════
   "editor.fontFamily": "JetBrains Mono, monospace",
-  "editor.fontSize": 14,
-  "editor.lineHeight": 1.5,
+  "editor.fontSize": 13,
+  "editor.lineHeight": 1.45,
   "editor.fontLigatures": true,
 
   // ═══════════════════════════════════════════════════════════
